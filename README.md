@@ -48,7 +48,7 @@
         <div class="container mx-auto flex justify-between items-center">
             <div class="flex space-x-4">
                 <span><i class="fas fa-phone-alt mr-1"></i> (11) 4002-8922</span>
-                <span><i class="fas fa-envelope mr-1"></i> contato@institutocafe.com.br</span>
+                <span><i class="fas fa-envelope mr-1"></i> GitHub(https://github.com/lLuccasx)</span>
             </div>
             <div class="flex space-x-4">
                 <a href="#" class="hover:text-purple-300"><i class="fab fa-facebook-f"></i></a>
